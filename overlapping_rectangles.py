@@ -1,6 +1,6 @@
 '''This module contains a method for overlapping rectangles'''
 
-def overlap(red, blue) :
+def find_overlap(red, blue) :
     '''Takes in two a tuple of tuples that mark out the corners of a
     rectangle.  Returns overlap between the two rectangles or None.
     Sample Usage : 
